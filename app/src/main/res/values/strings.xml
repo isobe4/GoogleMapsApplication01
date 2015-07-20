@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">GoogleMapsApplication01</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_list">AddListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_update">UpdateActivity</string>
+
+    <string-array name="shoplist">
+        <!--コンビニ-->
+        <item>コンビニ</item>
+        <item>ローソン</item>
+        <item>ミニストップ</item>
+        <item>サークルKサンクス</item>
+        <item>ファミリーマート</item>
+        <!--学校-->
+        <item>小学校</item>
+        <item>中学校</item>
+        <item>高等学校</item>
+        <item>大学</item>
+        <item>専門学校</item>
+        <!--施設-->
+        <item>ホテル</item>
+        <item>図書館</item>
+        <item>病院</item>
+        <item>警察署</item>
+    </string-array>
+    <string-array name="addlist">
+        <!--北海道地方-->
+        <item>北海道</item>
+        <!--東北地方-->
+        <item>青森県</item>
+        <item>秋田県</item>
+        <item>岩手県</item>
+        <item>宮城県</item>
+        <item>山形県</item>
+        <item>福島県</item>
+        <!--関東地方-->
+        <item>茨城県</item>
+        <item>栃木県</item>
+        <item>群馬県</item>
+        <item>埼玉県</item>
+        <item>千葉県</item>
+        <item>東京都</item>
+        <item>神奈川県</item>
+        <!--近畿地方-->
+        <item>大阪府</item>
+        <item>京都府</item>
+        <item>兵庫県</item>
+        <item>奈良県</item>
+        <item>三重県</item>
+        <item>滋賀県</item>
+        <item>和歌山県</item>
+        <!--四国地方-->
+        <item>徳島県</item>
+        <item>香川県</item>
+        <item>愛媛県</item>
+        <item>高知県</item>
+        <!--中部地方-->
+        <item>新潟県</item>
+        <item>富山県</item>
+        <item>石川県</item>
+        <item>福井県</item>
+        <item>山梨県</item>
+        <item>長野県</item>
+        <item>岐阜県</item>
+        <item>静岡県</item>
+        <item>愛知県</item>
+        <!--中国地方-->
+        <item>鳥取県</item>
+        <item>島根県</item>
+        <item>岡山県</item>
+        <item>広島県</item>
+        <item>山口県</item>
+        <!--九州地方-->
+        <item>福岡県</item>
+        <item>佐賀県</item>
+        <item>長崎県</item>
+        <item>熊本県</item>
+        <item>大分県</item>
+        <item>宮崎県</item>
+        <item>鹿児島県</item>
+        <item>沖縄県</item>
+    </string-array>
+</resources>
